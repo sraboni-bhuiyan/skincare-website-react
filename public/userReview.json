@@ -1,0 +1,50 @@
+[
+    {
+      "id": "624a31112c585d97245645db",
+      "rating": 0,
+      "picture": "http://placehold.it/32x32",
+      "name": "Adkins Gill"
+    },
+    {
+      "id": "624a31113757eee6137a739b",
+      "rating": 1,
+      "picture": "http://placehold.it/32x32",
+      "name": "Blanche Rowe"
+    },
+    {
+      "id": "624a31118ce5a6502b477db7",
+      "rating": 2,
+      "picture": "http://placehold.it/32x32",
+      "name": "Floyd Hensley"
+    },
+    {
+      "id": "624a31117dd0b73923d29a14",
+      "rating": 3,
+      "picture": "http://placehold.it/32x32",
+      "name": "Lambert Valencia"
+    },
+    {
+      "id": "624a3111e45f6af954309105",
+      "rating": 4,
+      "picture": "http://placehold.it/32x32",
+      "name": "Tyson Banks"
+    },
+    {
+      "id": "624a311149dbda800be42cbe",
+      "rating": 5,
+      "picture": "http://placehold.it/32x32",
+      "name": "Myrtle Jensen"
+    },
+    {
+      "id": "624a311115d13050510cf67d",
+      "rating": 6,
+      "picture": "http://placehold.it/32x32",
+      "name": "Geraldine Estrada"
+    },
+    {
+      "id": "624a3111b3bd80963a9e714f",
+      "rating": 7,
+      "picture": "http://placehold.it/32x32",
+      "name": "Leanne Spence"
+    }
+  ]
