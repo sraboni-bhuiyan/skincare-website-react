@@ -1,50 +1,58 @@
 [
     {
       "id": "624a31112c585d97245645db",
-      "rating": 0,
+      "rating": 10,
       "picture": "http://placehold.it/32x32",
-      "name": "Adkins Gill"
+      "name": "Adkins Gill",
+      "review": "I love these cleansers! The cleansing balm melts away makeup and spf. The fulvic acid cleanser helps break any makeup that was left and leaves the face feeling clean not stripped. Theres not fragrance, I love the simplicity and quality of these products."
     },
     {
       "id": "624a31113757eee6137a739b",
-      "rating": 1,
+      "rating": 8,
       "picture": "http://placehold.it/32x32",
-      "name": "Blanche Rowe"
+      "name": "Blanche Rowe",
+      "review": "My son has very curly/coily hair and when I apply this to his hair his curls form so nicely and it also helps to keep frizz away"
     },
     {
       "id": "624a31118ce5a6502b477db7",
-      "rating": 2,
+      "rating": 8.5,
       "picture": "http://placehold.it/32x32",
-      "name": "Floyd Hensley"
+      "name": "Floyd Hensley",
+      "review": "It's a nice moisturiser, absorbs nicely in to the skin but isn't heavy enough if you have dry skin. Would probably work well under make up."
     },
     {
       "id": "624a31117dd0b73923d29a14",
-      "rating": 3,
+      "rating": 9.5,
       "picture": "http://placehold.it/32x32",
-      "name": "Lambert Valencia"
+      "name": "Lambert Valencia",
+      "review": "This is a great cleanser. I've noticed a significant difference in my skin. I suffer from keratosis pilaris mostly on my arms but I have a little on my cheeks, but i have an oily t zone. I'd been using an SA cream for a while and this cleanser has worked so much better. My skin looks clearer than it has been in a long time"
     },
     {
       "id": "624a3111e45f6af954309105",
-      "rating": 4,
+      "rating": 9,
       "picture": "http://placehold.it/32x32",
-      "name": "Tyson Banks"
+      "name": "Tyson Banks",
+      "review": "It works well for my family, the acne dried overnight, but sadly not mine. My acne stays the same for few days to week, but it calm my acne a bit when using this spot treatment. Will continue using this and see how it work."
     },
     {
       "id": "624a311149dbda800be42cbe",
-      "rating": 5,
+      "rating": 9.5,
       "picture": "http://placehold.it/32x32",
-      "name": "Myrtle Jensen"
+      "name": "Myrtle Jensen",
+      "review": "I've been looking for a balmy cleanser that can renove make up without stripping the skin- this does so with little effort and leaves my face feeling so soft. I want to try other inkey cleansers, but I plan on definitely coming back to this one for sure!"
     },
     {
       "id": "624a311115d13050510cf67d",
-      "rating": 6,
+      "rating": 8,
       "picture": "http://placehold.it/32x32",
-      "name": "Geraldine Estrada"
+      "name": "Geraldine Estrada",
+      "review": "Got this one as a free sample, and I currently have the full size in my cart. Gentle, and I always notice a difference in my pores and overall texture after use. Absorbs nicely too. Glad I found this one!"
     },
     {
       "id": "624a3111b3bd80963a9e714f",
-      "rating": 7,
+      "rating": 10,
       "picture": "http://placehold.it/32x32",
-      "name": "Leanne Spence"
+      "name": "Leanne Spence",
+      "review": "I have very dry skin, initially was afraid this cleanser might dry my skin a lot, but it turns out quite well. Doesn't irritate my skin, small amount is enough foam to clean whole face, I like it. I use this only in the morning, as I'm using retinol at night. My hormonal acne reduce a bit since I started using this (been using for almost a month)"
     }
   ]
