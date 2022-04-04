@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Bar, BarChart, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
+import { Bar, BarChart, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const Dashboard = () => {
     const data = [
@@ -42,8 +42,8 @@ const Dashboard = () => {
     ];
 
     return (
-        <div className='flex justify-around my-10'>
-            <div>
+        <div className='grid grid-cols-2 gap-5 my-10 mx-5'>
+            <div className='border py-5'>
                 <h3 className='text-center text-xl font-semibold'>Investment Vs Revenue</h3>
                 <BarChart width={500} height={400} data={data}>
                     <Bar dataKey="investment" fill='#43a4e5'></Bar>
@@ -53,8 +53,8 @@ const Dashboard = () => {
                     <YAxis dataKey="investment"></YAxis>
                 </BarChart>
             </div>
-            <div>
-            <h3 className='text-center text-xl font-semibold'>Investment Vs Revenue Vs Sell</h3>
+            <div className='border py-5'>
+                <h3 className='text-center text-xl font-semibold'>Investment Vs Revenue Vs Sell</h3>
                 <LineChart width={500} height={400} data={data}>
                 <Line dataKey={'investment'}></Line>
                 <Line dataKey={'sell'}></Line>
@@ -63,6 +63,14 @@ const Dashboard = () => {
                 <Tooltip></Tooltip>
                 <YAxis></YAxis>
                 </LineChart>
+            </div>
+            <div className='mt-20 border py-5'>
+                <h3 className='text-center text-xl font-semibold'>Investment Vs Sell</h3>
+                <PieChart width={800} height={300}>
+                    <Pie data={data} dataKey={'investment'} cx="50%" cy="50%" outerRadius={60} fill="#43a4e5" />
+                    <Pie data={data} dataKey={'sell'} cx="50%" cy="50%" innerRadius={70} outerRadius={90} fill="#82ca9d" label />
+                    <Tooltip></Tooltip>
+                </PieChart>
             </div>
         </div>
     );
