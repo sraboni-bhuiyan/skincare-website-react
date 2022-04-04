@@ -1,6 +1,6 @@
 ## Green Beauty (Skincare Blog Site)
 
-This live proJect can be found on [Netlify]().
+This live proJect can be found on [Netlify](https://skincare-blog-site-by-sraboni.netlify.app/).
 
 ### This website includes following features-
 
