@@ -6,7 +6,7 @@ const ReviewCard = ({review}) => {
     return (
         <div className='w-3/4 mx-auto my-12 p-5 shadow-xl rounded-2xl'>
             
-            <div className='flex justify-between items-center gap-5'>
+            <div className='flex flex-col sm:flex-row justify-between items-center gap-5'>
                 <div className='my-2'>
                     <img className='w-[200px] rounded-xl' src={picture} alt="" />
                     <h1 className='bg-green-800 text-white text-center font-semibold text-lg my-4 rounded'>{name}</h1>
