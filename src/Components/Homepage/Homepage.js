@@ -9,7 +9,7 @@ const Homepage = () => {
                 <div className='mx-10 my-12 grid-cols-6'>
                     <h1 className='text-center font-mono font-extrabold text-6xl mb-16 text-green-800'>Green Beauty</h1>
                     <h1 className='text-center font-extrabold text-5xl my-4'>Introducing Our New <span className='text-green-800'>Skincare Product</span></h1>
-                    <p className='text-center mt-6 font-semibold'>Find the best ingredients to help tackle breakouts, excess oil and keep skin healthy. Shop AM & PM skincare routines suited to your skin concerns and goals.</p>
+                    <p className='text-center mt-6 font-semibold w-3/5 mx-auto'>Find the best ingredients to help tackle breakouts, excess oil and keep skin healthy. Shop AM & PM skincare routines suited to your skin concerns and goals.</p>
                     <div className='flex justify-center mt-10'>
                         <button className='border px-6 py-4 rounded-md bg-green-800 text-white font-bold cursor-pointer hover:bg-green-600'>See Demo</button>
                     </div> 
